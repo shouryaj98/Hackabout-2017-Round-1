@@ -10,4 +10,7 @@ scikit-learn
 beautifulsoup4  
 numpy  
  
-
+ 
+#### By - 
+Anisha Pal  
+Shourya Jaiswal
